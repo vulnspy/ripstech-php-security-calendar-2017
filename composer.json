@@ -1,0 +1,14 @@
+{
+    "config": {
+        "secure-http": false
+    },
+    "require": {
+        "twig/twig": "^2.5",
+        "doctrine/orm": "^2.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}

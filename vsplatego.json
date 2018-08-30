@@ -1,0 +1,5 @@
+{
+	"img":"vsplate\/deb_apache2_php7_mysql5:latest",
+	"save_dir":"\/var\/www\/html\/",
+	"mysql_pwd":"toor"
+}
