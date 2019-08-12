@@ -1,0 +1,6 @@
+2019-08-12 09:47:23,119 CRIT Supervisor running as root (no user in config file)
+2019-08-12 09:47:23,123 INFO supervisord started with pid 1
+2019-08-12 09:47:24,126 INFO spawned: 'mysqld' with pid 8
+2019-08-12 09:47:24,127 INFO spawned: 'apache2' with pid 9
+2019-08-12 09:47:25,582 INFO success: mysqld entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-12 09:47:25,582 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
